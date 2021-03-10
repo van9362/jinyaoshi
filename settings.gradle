@@ -1,0 +1,3 @@
+rootProject.name='jinyaoshi'
+include ':app'
+include ':common'
